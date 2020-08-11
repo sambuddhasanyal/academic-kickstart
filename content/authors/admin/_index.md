@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Sambuddha Sanyal
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,20 +9,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Assistant Professor in the Physics Department
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Indian Institute of Science Education and Research (IISER), Tirupati
+  url: "http://www.iisertirupati.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include strongly correlated quantum matter, thermalization and chaos.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum mechanics of strongly interacting many-particle systems 
+- Thermalization and chaos
+- Disordered systems
 
 education:
   courses:
